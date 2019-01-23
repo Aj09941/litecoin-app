@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381891344938",
+    "firebase_url": "https://litecoin-c15f7.firebaseio.com",
+    "project_id": "litecoin-c15f7",
+    "storage_bucket": "litecoin-c15f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381891344938:android:431904bdc9b742a0",
+        "android_client_info": {
+          "package_name": "aj.ak.com.litecoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381891344938-h8sefq8nqdbdegdjmc57fh9vkslvamfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQGoeeutmZHQwB-KxSczg_elVlCVVPZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
